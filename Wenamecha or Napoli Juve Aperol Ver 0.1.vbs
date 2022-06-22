@@ -20,7 +20,7 @@ end if
 
 if a=vbno then
 
-a = msgbox ("VER 0.1 Codename: Joe MAMMA |Search The New Update in github| if is downloaded from other site watch if not have virus later search in the WEB for Upd!" ,16, "Creator: The Turtle 06/22/2022")
+  a = msgbox ("VER 0.1 Codename: Joe MAMMA |Search The New Update in github https://github.com/TheTurtle24534456/Joe-MAMMA-0.1| if is downloaded from other site watch if not have virus later search in the WEB for Upd!" ,16, "Creator: The Turtle 06/22/2022")
 
 end if
 
